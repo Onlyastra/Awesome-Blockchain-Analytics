@@ -173,3 +173,5 @@ If you find this repository valuable for your research, forensic investigations,
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Blockchain-Analytics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Blockchain-Analytics&type=date&legend=top-left)
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
